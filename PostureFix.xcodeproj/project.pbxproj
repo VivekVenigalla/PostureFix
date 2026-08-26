@@ -1,0 +1,373 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		01091BF355B6B7155612A1ED /* SessionStats.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A68F5F1AFEBF8E7FC536F5F /* SessionStats.swift */; };
+		307F1C6754296EFD2131040D /* LaunchAtLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FA2F81D6692F8CD2ABE1A0 /* LaunchAtLogin.swift */; };
+		62D8CDBC082421373D96F543 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DD3AAA09FD0249C3C962EB /* AppState.swift */; };
+		7ABD7E56AD4B32677C114D0C /* StatsDashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 929F18EFE76C53CBC3A365EE /* StatsDashboardView.swift */; };
+		8D8C458D687D497A63339014 /* CameraManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F0F60D1B181BE16DF68E45 /* CameraManager.swift */; };
+		8FA5FC7FC57CBE15A4855831 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274047EA27451D5798F4C75F /* SettingsView.swift */; };
+		8FD8D9D91DCA6876E4C96934 /* SystemSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FE768DFDED00B9AB9950B6 /* SystemSettings.swift */; };
+		AA5CFD9E47F88C77862DD58E /* PostureDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F3C023364EAD94FBE7BA983 /* PostureDetector.swift */; };
+		ABB6537B75DDFF9F767989DA /* NotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD8E43EC544E941608CDDFD /* NotificationManager.swift */; };
+		BA0AB47F6EC8A461EE4D685D /* Streaks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F2A9D7AE2DC7854AE86581 /* Streaks.swift */; };
+		C348B733F941EFCE37C4ACA4 /* PostureCalibration.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F9A1128DEC0502D90B90E5 /* PostureCalibration.swift */; };
+		C994071D99438A62E372E190 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133CFFF055989ED37EC16F86 /* Settings.swift */; };
+		C9C70BE096D9285C361BC7D5 /* EmergencyHotkey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FABB0A1B2F6AEE9EB3572B9 /* EmergencyHotkey.swift */; };
+		D5C22B836B88C1A469AB44B5 /* MenuBarContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59AB051E1F7651A766B40842 /* MenuBarContentView.swift */; };
+		F28E2F2ED5F6ECC78DB23B8F /* PostureFixApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C312ABD01B29BF8F4B16A0 /* PostureFixApp.swift */; };
+		F299684F207CFBC9422ED757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A17FA81AB52DFC94455F016 /* Assets.xcassets */; };
+		FE1450A4476FF469ED57A838 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46A2E6E851ED16DE6A1805C /* OnboardingView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		03DD3AAA09FD0249C3C962EB /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		133CFFF055989ED37EC16F86 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		274047EA27451D5798F4C75F /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		59AB051E1F7651A766B40842 /* MenuBarContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarContentView.swift; sourceTree = "<group>"; };
+		5A68F5F1AFEBF8E7FC536F5F /* SessionStats.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionStats.swift; sourceTree = "<group>"; };
+		62F2A9D7AE2DC7854AE86581 /* Streaks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Streaks.swift; sourceTree = "<group>"; };
+		6F3C023364EAD94FBE7BA983 /* PostureDetector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostureDetector.swift; sourceTree = "<group>"; };
+		7FABB0A1B2F6AEE9EB3572B9 /* EmergencyHotkey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmergencyHotkey.swift; sourceTree = "<group>"; };
+		8A17FA81AB52DFC94455F016 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		929F18EFE76C53CBC3A365EE /* StatsDashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsDashboardView.swift; sourceTree = "<group>"; };
+		9CD8E43EC544E941608CDDFD /* NotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationManager.swift; sourceTree = "<group>"; };
+		A9F0F60D1B181BE16DF68E45 /* CameraManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraManager.swift; sourceTree = "<group>"; };
+		B46A2E6E851ED16DE6A1805C /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		B4FE768DFDED00B9AB9950B6 /* SystemSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemSettings.swift; sourceTree = "<group>"; };
+		C1C312ABD01B29BF8F4B16A0 /* PostureFixApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostureFixApp.swift; sourceTree = "<group>"; };
+		E7F9A1128DEC0502D90B90E5 /* PostureCalibration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostureCalibration.swift; sourceTree = "<group>"; };
+		F3FA2F81D6692F8CD2ABE1A0 /* LaunchAtLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchAtLogin.swift; sourceTree = "<group>"; };
+		FF42C134CDF46A4B6DDE6B1F /* PostureFix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PostureFix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		35827CEB7419AB71F0FA2A43 = {
+			isa = PBXGroup;
+			children = (
+				C9807DE4F20563635B60EA63 /* PostureFix */,
+				4D388284E8A81A607A5A4B18 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4D388284E8A81A607A5A4B18 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FF42C134CDF46A4B6DDE6B1F /* PostureFix.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C9807DE4F20563635B60EA63 /* PostureFix */ = {
+			isa = PBXGroup;
+			children = (
+				03DD3AAA09FD0249C3C962EB /* AppState.swift */,
+				A9F0F60D1B181BE16DF68E45 /* CameraManager.swift */,
+				7FABB0A1B2F6AEE9EB3572B9 /* EmergencyHotkey.swift */,
+				F3FA2F81D6692F8CD2ABE1A0 /* LaunchAtLogin.swift */,
+				59AB051E1F7651A766B40842 /* MenuBarContentView.swift */,
+				9CD8E43EC544E941608CDDFD /* NotificationManager.swift */,
+				B46A2E6E851ED16DE6A1805C /* OnboardingView.swift */,
+				E7F9A1128DEC0502D90B90E5 /* PostureCalibration.swift */,
+				6F3C023364EAD94FBE7BA983 /* PostureDetector.swift */,
+				C1C312ABD01B29BF8F4B16A0 /* PostureFixApp.swift */,
+				5A68F5F1AFEBF8E7FC536F5F /* SessionStats.swift */,
+				133CFFF055989ED37EC16F86 /* Settings.swift */,
+				274047EA27451D5798F4C75F /* SettingsView.swift */,
+				929F18EFE76C53CBC3A365EE /* StatsDashboardView.swift */,
+				62F2A9D7AE2DC7854AE86581 /* Streaks.swift */,
+				B4FE768DFDED00B9AB9950B6 /* SystemSettings.swift */,
+				F947F85961EBF8F3E1372B7B /* Resources */,
+			);
+			name = PostureFix;
+			path = Sources/PostureFix;
+			sourceTree = "<group>";
+		};
+		F947F85961EBF8F3E1372B7B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8A17FA81AB52DFC94455F016 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		189BB53E04E12674411E78A6 /* PostureFix */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C098BCE26B03A3472E07B057 /* Build configuration list for PBXNativeTarget "PostureFix" */;
+			buildPhases = (
+				0729564172F24B3232A8848B /* Sources */,
+				2A64290B8788ABCE02E5CFFD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PostureFix;
+			packageProductDependencies = (
+			);
+			productName = PostureFix;
+			productReference = FF42C134CDF46A4B6DDE6B1F /* PostureFix.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A8F4EFC322E061ED0431738F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					189BB53E04E12674411E78A6 = {
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 43F62AF0C122981EB9EF7A5D /* Build configuration list for PBXProject "PostureFix" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 35827CEB7419AB71F0FA2A43;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4D388284E8A81A607A5A4B18 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				189BB53E04E12674411E78A6 /* PostureFix */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2A64290B8788ABCE02E5CFFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F299684F207CFBC9422ED757 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0729564172F24B3232A8848B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				62D8CDBC082421373D96F543 /* AppState.swift in Sources */,
+				8D8C458D687D497A63339014 /* CameraManager.swift in Sources */,
+				C9C70BE096D9285C361BC7D5 /* EmergencyHotkey.swift in Sources */,
+				307F1C6754296EFD2131040D /* LaunchAtLogin.swift in Sources */,
+				D5C22B836B88C1A469AB44B5 /* MenuBarContentView.swift in Sources */,
+				ABB6537B75DDFF9F767989DA /* NotificationManager.swift in Sources */,
+				FE1450A4476FF469ED57A838 /* OnboardingView.swift in Sources */,
+				C348B733F941EFCE37C4ACA4 /* PostureCalibration.swift in Sources */,
+				AA5CFD9E47F88C77862DD58E /* PostureDetector.swift in Sources */,
+				F28E2F2ED5F6ECC78DB23B8F /* PostureFixApp.swift in Sources */,
+				01091BF355B6B7155612A1ED /* SessionStats.swift in Sources */,
+				C994071D99438A62E372E190 /* Settings.swift in Sources */,
+				8FA5FC7FC57CBE15A4855831 /* SettingsView.swift in Sources */,
+				7ABD7E56AD4B32677C114D0C /* StatsDashboardView.swift in Sources */,
+				BA0AB47F6EC8A461EE4D685D /* Streaks.swift in Sources */,
+				8FD8D9D91DCA6876E4C96934 /* SystemSettings.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		220DFFEE3CCA4EABEF06AAD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Sources/PostureFix/Resources/PostureFix.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = Sources/PostureFix/Resources/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.posturefix.app;
+				PRODUCT_NAME = PostureFix;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		3F8489D9932BBB2B002A8C0D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.10;
+			};
+			name = Debug;
+		};
+		C5EE76F864D16FD786E5F8F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Sources/PostureFix/Resources/PostureFix.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = Sources/PostureFix/Resources/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.posturefix.app;
+				PRODUCT_NAME = PostureFix;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		FDB700C437AE42A57B5552AA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.10;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		43F62AF0C122981EB9EF7A5D /* Build configuration list for PBXProject "PostureFix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8489D9932BBB2B002A8C0D /* Debug */,
+				FDB700C437AE42A57B5552AA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		C098BCE26B03A3472E07B057 /* Build configuration list for PBXNativeTarget "PostureFix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				220DFFEE3CCA4EABEF06AAD9 /* Debug */,
+				C5EE76F864D16FD786E5F8F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A8F4EFC322E061ED0431738F /* Project object */;
+}

@@ -1,0 +1,103 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/primary.swiftdeps"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/AppState.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/AppState.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/AppState.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/AppState.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/AppState.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/CameraManager.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/CameraManager.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/CameraManager.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/CameraManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/CameraManager.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/CameraManager.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/LaunchAtLogin.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/LaunchAtLogin.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/LaunchAtLogin.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/LaunchAtLogin~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/LaunchAtLogin.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/LaunchAtLogin.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/MenuBarContentView.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/MenuBarContentView.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/MenuBarContentView.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/MenuBarContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/MenuBarContentView.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/MenuBarContentView.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/NotificationManager.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/NotificationManager.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/NotificationManager.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/NotificationManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/NotificationManager.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/NotificationManager.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/OnboardingView.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/OnboardingView.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/OnboardingView.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/OnboardingView.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/OnboardingView.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/PostureCalibration.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureCalibration.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureCalibration.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureCalibration~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureCalibration.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureCalibration.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/PostureDetector.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureDetector.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureDetector.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureDetector.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureDetector.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/PostureFixApp.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureFixApp.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureFixApp.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureFixApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureFixApp.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/PostureFixApp.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/SessionStats.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SessionStats.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SessionStats.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SessionStats~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SessionStats.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SessionStats.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/Settings.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Settings.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Settings.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Settings~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Settings.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Settings.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/SettingsView.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SettingsView.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/SettingsView.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/StatsDashboardView.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/StatsDashboardView.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/StatsDashboardView.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/StatsDashboardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/StatsDashboardView.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/StatsDashboardView.dia"
+  },
+  "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/Sources/PostureFix/Streaks.swift": {
+    "dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Streaks.d",
+    "object": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Streaks.swift.o",
+    "swiftmodule": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Streaks~partial.swiftmodule",
+    "swift-dependencies": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Streaks.swiftdeps",
+    "diagnostics": "/Users/vivekvenigalla/Documents/VV_Active/03_PROJECTS/PostureFix/.build/arm64-apple-macosx/debug/PostureFix.build/Streaks.dia"
+  }
+}
