@@ -8,9 +8,6 @@ PostureFix is a macOS menu bar app that watches your posture through your webcam
 <!-- SCREENSHOT: Weekly stats dashboard with the bar chart and streak grid -->
 ![Weekly stats dashboard](docs/screenshots/stats-dashboard.png)
 
-<!-- SCREENSHOT: Onboarding calibration step -->
-![Onboarding flow](docs/screenshots/onboarding.png)
-
 ## Features
 
 - **Live posture detection** — uses Apple's Vision framework to track head position, height, and tilt from your webcam feed
